@@ -1,1 +1,1 @@
-# portal-terminal-api-
+# portal-terminals-api
